@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int T;
+    int T, t;
     scanf("%d", &T);
     for(int i= 0 ; i< T; i++){
         int a, b;
@@ -14,3 +14,4 @@ int main(){
     }
     return 0;
 }
+//아니 잔디 안올라감
